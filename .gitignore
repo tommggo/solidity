@@ -15,3 +15,23 @@ node_modules
 
 # remix compile files
 /contracts/call/artifacts
+contracts/interfaces/artifacts/INftDB_metadata.json
+contracts/interfaces/artifacts/build-info/e1668e1642853e4f0b7d5b2909bff478.json
+contracts/nft/artifacts/EIP165.json
+contracts/nft/artifacts/EIP165_metadata.json
+contracts/nft/artifacts/MyNFT.json
+contracts/nft/artifacts/MyNFT_metadata.json
+contracts/nft/artifacts/NftDB.json
+contracts/nft/artifacts/NftDB_metadata.json
+contracts/nft/artifacts/build-info/00b28221a7c1355b881d577f4db98156.json
+contracts/nft/artifacts/build-info/116ecd6aa4889a139f3093190576d48c.json
+contracts/nft/artifacts/build-info/77f7feb4b917fa21295a59835c9d219a.json
+contracts/nft/artifacts/build-info/952b4199408ff666582b745fbf5d5d03.json
+contracts/nft/artifacts/build-info/ad047054b51e7ad3d5ac6aea305f2284.json
+contracts/nft/artifacts/build-info/f9985d051c2b5689e057625765b6b3b5.json
+contracts/libraries/artifacts/NftLib_metadata.json
+contracts/libraries/artifacts/build-info/c903d19948d97d61cf9136ff1c196fdf.json
+.deps/npm/@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol
+.deps/npm/@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol
+.deps/npm/@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol
+.deps/npm/@openzeppelin/contracts-upgradeable/utils/introspection/ERC165Upgradeable.sol
